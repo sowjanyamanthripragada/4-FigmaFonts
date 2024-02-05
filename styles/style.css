@@ -134,7 +134,7 @@
   border-radius: 6px;
 }
 
-.frame .text-wrapper-6 {
+.frame .button-wrapper-1 {
   position: absolute;
   width: 88px;
   top: 17px;
@@ -159,7 +159,7 @@
   border-radius: 6px;
 }
 
-.frame .text-wrapper-7 {
+.frame .button-wrapper-2 {
   top: 17px;
   left: 31px;
   font-weight: 700;
@@ -183,8 +183,8 @@
 
 .frame .medi {
   position: absolute;
-  width: 95px;
-  height: 41px;
-  top: 2718px;
-  left: 881px;
+  width: 90px;
+  height: 33px;
+  top: 38px;
+  left: 150px;
 }
